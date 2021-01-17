@@ -25,7 +25,7 @@ If you have followed the above provided link to create and configure your plugin
 
 ![image1](_static/guide-to-creating-a-page-containing-a-reporting-table-of-datatables/image1.png)
 
-And you also know what kinds of files each of these folder/directory holds. Here "DistOfCustBuCountryPlugin.cs" file is the one that inherent from BasePlugin class. Here is the basic code we want in this file for the sake of this tutorial.
+And you also know what kinds of files each of these folder/directory holds. Here "DistOfCustBuCountryPlugin.cs" file is the one that inherit from BasePlugin class. Here is the basic code we want in this file for the sake of this tutorial.
 
 ```cs
 public class DistOfCustByCountryPlugin: BasePlugin
